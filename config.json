@@ -1,0 +1,7 @@
+{"foldertree":["Spam","Inbox"],
+            "api_vt":"<vtapikeygoeshere>",
+            "rulesdir":"rules",
+            "scan_interval":60,
+            "ioc_file":"c:\\path\\ioc.csv",
+            "ioc_column":1
+}
